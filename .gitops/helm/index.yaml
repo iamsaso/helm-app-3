@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  generic-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-06-11T11:28:44.924480532-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 1df05fb906e0963dc79c484c5e91fabf82db99ae736f94503512a12118c0c2b4
+    name: generic-app
+    urls:
+    - charts/generic-app-0.1.0.tgz
+    version: 0.1.0
+  helm:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-06-11T11:28:44.923610658-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 5121c71b431294c90384fc42789a93ce777fc15bc8b25f9ae7cc2f3009fd7f3e
+    name: helm
+    urls:
+    - helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-06-11T11:28:44.921925462-07:00"

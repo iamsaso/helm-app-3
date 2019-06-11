@@ -1,0 +1,4 @@
+dependencies:
+  - name: generic-app
+    version: 0.1
+    repository: https://raw.githubusercontent.com/sasso/helm-core/master/
